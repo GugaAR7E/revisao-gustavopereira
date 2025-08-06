@@ -1,1 +1,70 @@
-/* Add styles here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkgray;
+}
+
+h1 {
+    
+    color: darkslategray;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: 'Lora', sans-serif;
+    
+}
+
+img {
+
+    width: 650px;
+    display:block;
+    margin: 0 auto;
+    margin-bottom: 65px;
+    border-radius: 25px;
+    
+}
+
+.filmes h2 {
+
+    color: darkslategray;
+    margin-bottom: 25px;
+    font-size: 35px;
+    font-family: 'Lora', sans-serif;
+}
+
+.filmes li {
+
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.filmes {
+    margin-bottom: 35px;
+}
+
+.series h2 {
+
+    color: darkslategray;
+    margin-bottom: 25px;
+    font-size: 35px;
+    font-family: 'Lora', sans-serif;
+}
+
+.series ol {
+
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.series {
+
+    margin-bottom: 35px;
+}
+
+
+
